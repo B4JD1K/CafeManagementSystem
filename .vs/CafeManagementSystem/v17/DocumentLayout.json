@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\bajdzior\\source\\repos\\cafemanagementsystem\\cafemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\bajdzior\\source\\repos\\cafemanagementsystem\\cafemanagementsystem\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\bajdzior\\source\\repos\\cafemanagementsystem\\cafemanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|c:\\users\\bajdzior\\source\\repos\\cafemanagementsystem\\cafemanagementsystem\\models\\cafeentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{AC98910E-F0EA-4B7F-A562-285E6860969A}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\models\\cafeentities.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\TokenManager.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\TokenManager.cs",
+              "RelativeToolTip": "CafeManagementSystem\\TokenManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:02:16.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwEcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:51:29.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:50:50.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CafeEntities.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\Models\\CafeEntities.edmx",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Models\\CafeEntities.edmx",
+              "ToolTip": "C:\\Users\\Bajdzior\\source\\repos\\CafeManagementSystem\\CafeManagementSystem\\Models\\CafeEntities.edmx [Diagram1]",
+              "RelativeToolTip": "CafeManagementSystem\\Models\\CafeEntities.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-22T19:49:50.89Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+﻿POSTANOWIENIA LICENCYJNE DOTYCZĄCE OPROGRAMOWANIA MICROSOFT
+BIBLIOTEKA MICROSOFT.NET
+Niniejsze postanowienia licencyjne stanowią umowę między Licencjobiorcą a Microsoft Corporation (albo, 
+w zależności od miejsca zamieszkania Licencjobiorcy, jednym z podmiotów stowarzyszonych Microsoft 
+Corporation). Postanowienia te dotyczą oprogramowania określonego powyżej. Niniejsze postanowienia 
+mają również zastosowanie do wszelkich usług i aktualizacji Microsoft dla niniejszego oprogramowania, z 
+wyjątkiem tych, którym towarzyszą inne postanowienia.
+LICENCJOBIORCA PRZESTRZEGAJĄCY NINIEJSZYCH POSTANOWIEŃ LICENCYJNYCH 
+UZYSKUJE OPISANE PONIŻEJ PRAWA.
+1.	PRAWA DO INSTALACJI I UŻYWANIA.
+Licencjobiorca może zainstalować dowolną liczbę kopii oprogramowania i używać ich w celu tworzenia 
+i testowania swoich aplikacji.  
+2.	SKŁADNIKI POCHODZĄCE OD INNYCH FIRM. Oprogramowanie może zawierać składniki 
+pochodzące od osób trzecich, objęte odrębnymi informacjami prawnymi lub podlegające innym umowom, 
+zgodnie z ewentualnym opisem w plikach ThirdPartyNotices dołączonych do oprogramowania.
+3.	DODATKOWE WYMAGANIA LICENCYJNE LUB PRAWA DO UŻYWANIA.
+a.	KOD DYSTRYBUCYJNY. Oprogramowanie składa się z Kodu Dystrybucyjnego. „Kod 
+Dystrybucyjny” to kod, który Licencjobiorca może rozpowszechniać w swoich aplikacjach, o ile 
+będzie przestrzegać poniższych postanowień.
+i.	Prawa do używania i rozpowszechniania.
+•	Licencjobiorca może kopiować i rozpowszechniać oprogramowanie w postaci kodu 
+wynikowego;
+•	Rozpowszechnianie przez osoby trzecie. Licencjobiorca może zezwolić dystrybutorom 
+swoich aplikacji na kopiowanie i rozpowszechnianie Kodu Dystrybucyjnego jako części 
+tych aplikacji.
+ii.	Wymagania dotyczące rozpowszechniania. W przypadku każdego 
+rozpowszechnianego przez siebie Kodu dystrybucyjnego Licencjobiorca musi
+•	używać Kodu Dystrybucyjnego w swoich aplikacjach, a nie w ramach autonomicznej 
+dystrybucji;
+•	wymagać od dystrybutorów oraz zewnętrznych użytkowników końcowych akceptacji 
+postanowień chroniących Kod Dystrybucyjny w stopniu co najmniej równym ochronie 
+zapewnionej na mocy niniejszej umowy; oraz
+•	przejąć od Microsoft odpowiedzialność cywilną oraz dokonać na rzecz Microsoft 
+rekompensaty z tytułu wszelkich roszczeń, w tym kosztów obsługi prawnej, związanych z 
+rozpowszechnianiem lub używaniem aplikacji Licencjobiorcy, z wyjątkiem zakresu, w 
+którym podstawę roszczeń stanowi wyłącznie niezmodyfikowany Kod Dystrybucyjny.
+iii.	Ograniczenia dotyczące rozpowszechniania. Licencjobiorca nie może
+•	używać znaków towarowych Microsoft w nazwach swoich aplikacji lub w sposób 
+sugerujący, że aplikacje Licencjobiorcy zostały wyprodukowane przez Microsoft lub są 
+przez Microsoft promowane; lub
+•	modyfikować ani rozpowszechniać kodu źródłowego żadnego Kodu Dystrybucyjnego w 
+taki sposób, aby jakakolwiek jego część podlegała Licencji Wyłączającej. „Licencja 
+Wyłączająca” to licencja, w której warunkiem używania, modyfikacji lub 
+rozpowszechniania kodu jest, aby (i) kod taki był jawny lub rozpowszechniany w postaci 
+kodu źródłowego; lub (ii) inne osoby były uprawnione do modyfikowania takiego kodu.
+4.	DANE.
+a.	Zbieranie danych. Oprogramowanie może gromadzić informacje o Licencjobiorcy i sposobie, w 
+jaki używa on oprogramowania, a także przesyłać takie informacje do Microsoft. Microsoft może 
+wykorzystywać te informacje w celu świadczenia usług oraz w celu ulepszenia produktów i usług 
+Microsoft.  Licencjobiorca może zrezygnować z wielu scenariuszy (ale nie wszystkich), jak opisano 
+w dokumentacji oprogramowania.  Istnieją również pewne funkcje oprogramowania, które mogą 
+umożliwiać Licencjobiorcy i Microsoft zbieranie danych od użytkowników aplikacji Licencjobiorcy. 
+Jeśli Licencjobiorca używa tych funkcji, musi przestrzegać przepisów prawa właściwego, w tym 
+stosownie powiadamiać użytkowników aplikacji Licencjobiorcy o tych działaniach, a także 
+udostępnić im kopię przyjętego przez Microsoft oświadczenia o ochronie prywatności. 
+Oświadczenie to można znaleźć pod adresem https://go.microsoft.com/fwlink/?LinkID=824704. 
+Więcej informacji na temat zbierania i używania danych można znaleźć w dokumentacji 
+oprogramowania i oświadczeniu Microsoft o ochronie prywatności. Używanie przez Licencjobiorcę 
+oprogramowania oznacza zgodę Licencjobiorcy na takie działania.
+b.	Przetwarzanie danych osobowych. W zakresie, w jakim Microsoft jest podmiotem 
+przetwarzającym lub podwykonawcą przetwarzania danych osobowych w związku z 
+oprogramowaniem, Microsoft z dniem 25 maja 2018 r. podejmuje wobec wszystkich klientów 
+zobowiązania wynikające z przepisów ogólnego rozporządzenia o ochronie danych przyjętego 
+przez UE, określone w Postanowieniach dotyczących Usług Online, które można znaleźć pod 
+adresem https://docs.microsoft.com/en-us/legal/gdpr.
+5.	ZAKRES LICENCJI. Oprogramowanie jest licencjonowane, a nie sprzedawane. Na mocy niniejszej 
+umowy Licencjobiorca uzyskuje tylko niektóre prawa do używania oprogramowania. Microsoft 
+zastrzega sobie wszystkie pozostałe prawa. Licencjobiorca może korzystać z oprogramowania tylko 
+w sposób wyraźnie dozwolony w niniejszej umowie. Nie dotyczy to sytuacji, w których pomimo 
+niniejszego ograniczenia na mocy prawa właściwego przysługują mu dodatkowe uprawnienia. 
+W takich przypadkach Licencjobiorca musi przestrzegać wszelkich ograniczeń technicznych 
+oprogramowania zapewniających, że z oprogramowania będzie można korzystać wyłącznie 
+w określony sposób. Licencjobiorca nie może
+•		omijać żadnych ograniczeń technicznych oprogramowania;
+•	odtwarzać, dekompilować ani deasemblować oprogramowania, ani w inny sposób podejmować 
+prób pozyskania kodu źródłowego z oprogramowania, chyba że w przypadku i tylko w takim 
+zakresie, w jakim jest to wymagane na mocy określonych przez osoby trzecie postanowień 
+licencyjnych mających zastosowanie do używania określonych składników podlegających licencji 
+open source, które mogą być dołączone do oprogramowania;
+•	usuwać, minimalizować, blokować ani modyfikować żadnych umieszczonych w oprogramowaniu 
+powiadomień Microsoft ani dostawców Microsoft; 
+•	używać oprogramowania w sposób niezgodny z prawem lub
+•	udostępniać, publikować ani wynajmować oprogramowania, dostarczać go w postaci 
+samodzielnego rozwiązania w celu używania go przez inne osoby ani przenosić tego 
+oprogramowania lub niniejszej umowy na osobę trzecią.
+6.	OGRANICZENIA EKSPORTOWE. Licencjobiorca musi przestrzegać wszelkich krajowych 
+i międzynarodowych przepisów eksportowych mających zastosowanie do oprogramowania, które 
+obejmują ograniczenia w zakresie końcowego użytkownika, końcowego przeznaczenia i kraju 
+przeznaczenia. Więcej informacji na temat ograniczeń eksportowych można znaleźć pod adresem 
+www.microsoft.com/exporting.  
+7.	USŁUGI POMOCY TECHNICZNEJ. Niniejsze oprogramowanie jest udostępniane Licencjobiorcy w 
+stanie „takim, w jakim jest”, w związku z czym Microsoft może nie świadczyć związanych z tym 
+oprogramowaniem usług pomocy technicznej.
+8.	CAŁOŚĆ UMOWY. Niniejsza umowa wraz ze wszystkimi postanowieniami dotyczącymi uzupełnień, 
+aktualizacji, usług internetowych i usług pomocy technicznej, z których korzysta Licencjobiorca, 
+stanowią całość umowy dotyczącej oprogramowania i usług pomocy technicznej.
+9.	PRAWO WŁAŚCIWE.  Jeśli Licencjobiorca nabył oprogramowanie w Stanach Zjednoczonych, 
+prawem właściwym dla wykładni postanowień niniejszej umowy i rozpatrywania roszczeń z tytułu ich 
+naruszenia jest prawo stanu Waszyngton, a do wszelkich innych roszczeń mają zastosowanie prawa 
+stanu, w którym mieszka Licencjobiorca. Jeśli Licencjobiorca nabył oprogramowanie w innym kraju, 
+prawem właściwym dla wykładni niniejszej umowy jest prawo obowiązujące w tym kraju.
+10.	PRAWA KONSUMENTA — RÓŻNICE REGIONALNE. W niniejszej umowie zostały przedstawione 
+niektóre z praw przysługujących stronom. Licencjobiorcy mogą przysługiwać inne prawa, w tym 
+prawa konsumenta, na mocy przepisów prawa obowiązujących w stanie lub kraju Licencjobiorcy. 
+Niezależnie od charakteru relacji Licencjobiorcy z Microsoft, Licencjobiorcy mogą też przysługiwać 
+określone uprawnienia względem strony, od której nabył oprogramowanie. Niniejsza umowa nie 
+zmienia wzmiankowanych innych praw, jeśli prawa przysługujące Licencjobiorcy na mocy 
+ustawodawstwa stanowego lub krajowego nie zezwalają na takie zmiany. Na przykład jeśli 
+Licencjobiorca nabył oprogramowanie w jednym z poniższych regionów lub w przypadku, gdy 
+zastosowanie ma obowiązkowe prawo krajowe, wówczas Licencjobiorca podlega poniższym 
+postanowieniom:
+a)	Australia. Australijska ustawa o ochronie konsumentów (Australian Consumer Law) przyznaje 
+Licencjobiorcy określone gwarancje i żadne z zawartych w niniejszej umowie postanowień nie ma 
+na celu ograniczenia tych uprawnień.
+b)	Kanada. Jeśli Licencjobiorca nabył oprogramowanie w Kanadzie i nie chce już otrzymywać 
+aktualizacji, może wyłączyć funkcję automatycznej aktualizacji, odłączyć swoje urządzenie od 
+Internetu (w takim jednak przypadku po ponownym podłączeniu urządzenia do Internetu 
+oprogramowanie wznowi wyszukiwanie i instalowanie aktualizacji) albo odinstalować 
+oprogramowanie. Ewentualna dokumentacja produktu może także zawierać informacje na temat 
+sposobu wyłączania funkcji aktualizacji w danym urządzeniu Licencjobiorcy lub 
+w oprogramowaniu.
+c)	Niemcy i Austria.
+(i)	Gwarancja. Oprogramowanie będzie działać zasadniczo zgodnie z opisem znajdującym 
+się w materiałach Microsoft towarzyszących temu oprogramowaniu. Microsoft nie udziela jednak 
+żadnych innych umownych gwarancji dotyczących tego oprogramowania.
+(ii)	Ograniczenie odpowiedzialności. W przypadku umyślnego działania, rażącego 
+niedbalstwa, roszczeń opartych na ustawie o odpowiedzialności za produkt (Product Liability Act) 
+oraz w przypadku śmierci lub uszczerbku na zdrowiu Microsoft ponosi odpowiedzialność zgodnie z 
+przepisami bezwzględnie obowiązującymi.
+Z zastrzeżeniem postanowień zawartych w powyższym podpunkcie (ii) Microsoft ponosi 
+odpowiedzialność jedynie z tytułu nieznacznego zaniedbania w przypadku niewywiązania się ze 
+swoich istotnych zobowiązań umownych, których naruszenie mogłoby stanowić zagrożenie dla 
+realizacji celu niniejszej umowy, a co do wypełnienia których strona może mieć bezwzględne 
+zaufanie (tzw. podstawowe zobowiązania umowne). Microsoft nie ponosi żadnej odpowiedzialności z 
+tytułu pozostałych przypadków nieznacznego niedbalstwa.
+11.	ODRZUCENIE ODPOWIEDZIALNOŚCI Z TYTUŁU RĘKOJMI I GWARANCJI. LICENCJI 
+UDZIELA SIĘ NA OPROGRAMOWANIE W STANIE „TAKIM, W JAKIM ONO JEST”. 
+LICENCJOBIORCA PONOSI RYZYKO ZWIĄZANE Z UŻYWANIEM OPROGRAMOWANIA. 
+MICROSOFT NIE UDZIELA ŻADNYCH WYRAŹNYCH RĘKOJMI, GWARANCJI ANI 
+ZAPEWNIEŃ DOTYCZĄCYCH OPROGRAMOWANIA. W ZAKRESIE DOZWOLONYM PRZEZ 
+PRAWO MIEJSCOWE LICENCJOBIORCY MICROSOFT NINIEJSZYM WYŁĄCZA SWOJĄ 
+ODPOWIEDZIALNOŚĆ Z TYTUŁU DOROZUMIANEJ GWARANCJI Z TYTUŁU WARTOŚCI 
+HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ BRAKU NARUSZEŃ PRAW 
+OSÓB TRZECICH.
+12.	OGRANICZENIE I WYŁĄCZENIE UPRAWNIEŃ I ODSZKODOWAŃ. MICROSOFT I 
+DOSTAWCY MICROSOFT PONOSZĄ ODPOWIEDZIALNOŚĆ WYŁĄCZNIE ZA SZKODY 
+BEZPOŚREDNIE DO KWOTY 5,00 USD. LICENCJOBIORCA NIE MOŻE DOCHODZIĆ 
+ROSZCZEŃ Z TYTUŁU ŻADNYCH INNYCH SZKÓD I ODSZKODOWAŃ, W TYM 
+ODSZKODOWAŃ SPECJALNYCH ORAZ SZKÓD WYNIKAJĄCYCH Z UTRATY ZYSKÓW, 
+SZKÓD WTÓRNYCH, SZCZEGÓLNYCH, POŚREDNICH ANI UBOCZNYCH.
+Ograniczenie to ma zastosowanie w przypadku (a) wszelkich kwestii dotyczących oprogramowania, 
+usług, treści (w tym kodu) udostępnianych na stronach internetowych osób trzecich lub aplikacji osób 
+trzecich, a także w przypadku (b) roszczeń z tytułu naruszenia umowy, rękojmi, gwarancji lub 
+zapewnień lub z tytułu odpowiedzialności obiektywnej, niedbalstwa lub czynu niedozwolonego, 
+w zakresie dozwolonym przez prawo właściwe.
+Ograniczenie to ma zastosowanie także w przypadku, gdy spółka Microsoft wiedziała lub powinna 
+była wiedzieć o możliwości powstania takich szkód. Powyższe ograniczenie i wyłączenie mogą nie 
+dotyczyć Licencjobiorcy w przypadku, gdy na mocy prawa krajowego lub stanowego nie jest 
+dozwolone wyłączenie ani ograniczenie odpowiedzialności za szkody uboczne, wtórne itp.
+
