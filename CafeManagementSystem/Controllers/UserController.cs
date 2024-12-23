@@ -55,13 +55,48 @@ namespace CafeManagementSystem.Controllers
                     }
                     else
                     {
-                        return Request.CreateResponse(HttpStatusCode.Unauthorized, new { message = "Wait for Admin approval" });
+                        return Request.CreateResponse(HttpStatusCode.Unauthorized,
+                            new { message = "Wait for Admin approval" });
                     }
                 }
                 else
                 {
-                    return Request.CreateResponse(HttpStatusCode.Unauthorized, new { message = "Incorrect Username or Password" });
+                    return Request.CreateResponse(HttpStatusCode.Unauthorized,
+                        new { message = "Incorrect Username or Password" });
                 }
+            }
+            catch (Exception e)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, e);
+            }
+        }
+
+        // check received token is ok
+        [HttpGet, Route("checkToken")]
+        [CustomAuthenticationFilter] // if token is not correct then 401 Unauthorized
+        public HttpResponseMessage CheckToken()
+        {
+            return Request.CreateResponse(HttpStatusCode.OK, new { message = "true" });
+        }
+
+        // if admin, return list of users
+        [HttpGet, Route("getAllUsers")]
+        [CustomAuthenticationFilter] // if token is not correct then 401 Unauthorized
+        public HttpResponseMessage GetAllUsers()
+        {
+            try
+            {
+                var token = Request.Headers.GetValues("authorization").First();
+                TokenClaim tokenClaim = TokenManager.ValidateToken(token);
+                if (tokenClaim.Role != "admin") // if not admin then 401 Unauthorized
+                    return Request.CreateResponse(HttpStatusCode.Unauthorized);
+                
+                // get users with role == "user" from database with specified fields 
+                var result = _db.Users
+                    .Select(u => new { u.id, u.name, u.contactNumber, u.email, u.status, u.role })
+                    .Where(x => (x.role == "user"))
+                    .ToList();
+                return Request.CreateResponse(HttpStatusCode.OK, result);
             }
             catch (Exception e)
             {
