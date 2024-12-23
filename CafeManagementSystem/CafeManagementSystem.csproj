@@ -229,6 +229,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>CafeEntities.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\TokenClaim.cs" />
     <Compile Include="Models\User.cs">
       <DependentUpon>CafeEntities.tt</DependentUpon>
     </Compile>
